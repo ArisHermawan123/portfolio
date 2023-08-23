@@ -20,7 +20,7 @@ const Services = () => {
         <article className="service w-full sm:w-6/12 lg:w-7/12">
           <div className="service__head">
             <h2 className="lg:text-xl text-[#1f1f38] text-center">
-              Developer Warranty
+              Designer Warranty
             </h2>
           </div>
           <ul className="service__list flex  flex-col justify-center  items-start">
